@@ -4,3 +4,5 @@ https://stackoverflow.com/questions/54126343/how-to-fix-unchecked-runtime-laster
 https://validator.w3.org/nu/#textarea
 https://webdesign.tutsplus.com/articles/css-tips-for-better-color-and-contrast-accessibility--cms-34472
 https://webaim.org/resources/contrastchecker/
+Zoom- functionality to letting zoom not out.
+https://developer.mozilla.org/en-US/docs/Web/CSS/zoom
