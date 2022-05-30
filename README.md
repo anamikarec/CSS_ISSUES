@@ -6,3 +6,7 @@ https://webdesign.tutsplus.com/articles/css-tips-for-better-color-and-contrast-a
 https://webaim.org/resources/contrastchecker/
 Zoom- functionality to letting zoom not out.
 https://developer.mozilla.org/en-US/docs/Web/CSS/zoom
+Just Type interface json
+- and you will get one site [https://jvilk.com/MakeTypes/]
+- and paste your data here
+- and you will get the require interface
