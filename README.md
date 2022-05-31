@@ -10,3 +10,5 @@ Just Type interface json
 - and you will get one site [https://jvilk.com/MakeTypes/]
 - and paste your data here
 - and you will get the require interface
+- https://www.w3schools.com/accessibility/accessibility_labels.php
+- https://tink.uk/using-the-aria-current-attribute/
