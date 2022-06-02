@@ -13,3 +13,4 @@
 - https://www.w3schools.com/accessibility/accessibility_labels.php
 - https://tink.uk/using-the-aria-current-attribute/
 - https://www.w3schools.com/accessibility/accessibility_labels.php
+- https://www.w3schools.com/accessibility/accessibility_role_name_value.php
